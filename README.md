@@ -29,4 +29,4 @@ Object-Oriented Programming · Data Structures · Algorithms · Computer Network
 
 ### 🔗 Connect
 
-[LinkedIn](https://www.linkedin.com/in/vasileios-ladopoulos/)
+LinkedIn: [Vasileios Ladopoulos](https://www.linkedin.com/in/vasileios-ladopoulos/)
