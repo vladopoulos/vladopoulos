@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Vasileios 👋
 
-<!--
-**vladopoulos/vladopoulos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Digital Systems student at the University of Thessaly, interested in software development, programming, databases, and cybersecurity.
 
-Here are some ideas to get you started:
+### 🛠️ Technologies & Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Programming**
+Python · Java · C
+
+**Web Development**
+HTML · CSS · JavaScript · PHP
+
+**Databases**
+SQL · MySQL
+
+**Other**
+Object-Oriented Programming · Data Structures · Algorithms · Computer Networking
+
+### 🎯 Currently
+
+* 🎓 Completing my studies in Digital Systems
+* 💻 Building personal projects to strengthen my programming skills
+* 🛡️ Exploring cybersecurity and security-related programming
+* 📚 Continuously learning and improving
+
+### 📂 Projects
+
+* 🔒 Not yet available — currently working on it...
+
+### 🔗 Connect
+
+[LinkedIn](https://www.linkedin.com/in/vasileios-ladopoulos/)
