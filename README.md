@@ -1,4 +1,4 @@
-# Hi, I'm Vasileios 👋
+# Hi, I'm Vasilis 👋
 
 I'm a Digital Systems student at the University of Thessaly, interested in software development, programming, databases, and cybersecurity.
 
