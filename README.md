@@ -25,7 +25,7 @@ Object-Oriented Programming · Data Structures · Algorithms · Computer Network
 
 ### 📂 Projects
 
-* 🔒 Not yet available — currently working on it...
+* 🛡️ [Security Log Analyzer](https://github.com/vladopoulos/security-log-analyzer) - Python-based security log analyzer for detecting suspicious authentication activity
 
 ### 🔗 Connect
 
