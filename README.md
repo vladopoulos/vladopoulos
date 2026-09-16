@@ -26,6 +26,7 @@ Object-Oriented Programming · Data Structures · Algorithms · Computer Network
 ### Projects
 
 * [Security Log Analyzer](https://github.com/vladopoulos/security-log-analyzer) - Python-based security log analyzer for detecting suspicious authentication activity
+* [Online Retail Data Analysis](https://github.com/vladopoulos/data-analysis-project) - Data analysis project using Python, Pandas, SQL, and SQLite to analyze sales, revenue, products, countries, and returns
 
 ### Connect
 
